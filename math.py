@@ -1,6 +1,6 @@
 #add imp
 def add(x,y):
-	pass
+	return x+y
 #subs imp
 def substract(x,y):
 	pass
@@ -11,6 +11,5 @@ def multiply(x,y):
 def devide(x,y):
 	pass
 	
-#hi
-#hi souvik
+
 
