@@ -6,7 +6,7 @@ def substract(x,y):
 	return x-y
 #multiply imp
 def multiply(x,y):
-	pass
+	return x*y
 #devide imp
 def devide(x,y):
 	pass
